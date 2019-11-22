@@ -1,2 +1,2 @@
 # EmojiDictonary
-A emoji saves you so much typing :tada:
+An emoji saves you so much typing :tada:
