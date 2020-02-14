@@ -1,6 +1,9 @@
 ## GitHub's own API:
 https://api.github.com/emojis
 
+### Culture example:
+https://revelry.co/custom-slack-emoji/
+
 ### 6 months ago:
 https://github.com/austinbuilds/GitHub-Emojis-Cheatsheet
 
