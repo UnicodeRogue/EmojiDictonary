@@ -10,12 +10,13 @@ This dictonary comes from me noticing how emoji are used to convey a fair amount
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/shovel.png)  | shovel  | I'm digging out from a lot of notifications and emails  | Status  |   |
 | :dolphin:  | dolphin  | I'm leaving this channel/conversation. No hard feelings, and I'm leaving!  | Action being taken   | Hitchhicker's Guide to the Galaxy:  https://www.youtube.com/watch?v=N_dUmDBfp6k |
 | :bow:  | bow  | Politeness indicator: "I'm thanking, asking for something, or communicating something respectfully  | Empathize  | https://en.wikipedia.org/wiki/Bowing  |
+| :pray:  | pray  | Politeness indicator: "I'm saying please"  | Empathize  | https://www.brainpickings.org/2013/07/25/origin-of-please-and-thank-you/ |
 |  :sparkles: | sparkles  | Cheer, recognition  | Celebrate!  | https://emojipedia.org/sparkles/  |
 | :100:   | 100  | I agree strongly  | Empathize  |   |
 |  :rocket: | rocket  | It's done, the work has been shipped  |  Action being taken |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/shipit_drawing.png)  | shipit_squirrel  | I've read what you wrote, and I want you to go ahead and ship it  | Next step  |  https://excid3.com/blog/finishing-is-all-that-matters |
+| :tada:  | tada  | Celebration, announcement  | Celebrate/alert  |   |
+| ![]()  | all-the-things  | "Yes! All the things! Lots of enthusiasm  |  Empathize/status | Allie Brosh's Hyperbole and a Half: http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html  |
 
 Topical area thoughts:
 
@@ -24,7 +25,11 @@ Empathize
 Alert
 Status
 Action being taken
+Next step
 
 
 Connection:
 Sports teams, cities, states, countries, affinity groups
+
+Indicate where you are- emoji for city you're in, if you're at headquarters
+
