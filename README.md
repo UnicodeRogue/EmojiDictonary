@@ -12,7 +12,7 @@ This dictonary comes from me noticing how emoji are used to convey a fair amount
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/starship_enterprise.jpg)  | starship_enterprise  | I see your message, and I'm coming over now to take a look at the linked issue, after I look over the issue, I'll respond with my reccomendations and thoughts  | Action  | Star Trek: https://en.wikipedia.org/wiki/Starship_Enterprise  |
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/shovel.png)  | shovel  | I'm digging out from a lot of notifications and emails  | Status  |   |
 | :dolphin:  | dolphin  | I'm leaving this channel/conversation. No hard feelings, and I'm leaving!  | Action being taken   | Hitchhicker's Guide to the Galaxy:  https://www.youtube.com/watch?v=N_dUmDBfp6k |
-| ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/homer_bush.gif)  | homer_bush  | I'm leaving this channel/conversation/work for the day. No hard feelings, and I'm leaving!  | Action being taken   |   |
+| ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/homer_bush.gif)  | homer_bush  | (Slightly embarrassed) I'm leaving this channel/conversation/work for the day. No hard feelings, and I'm leaving!  | Action being taken   |   |
 | :bow:  | bow  | Politeness indicator: "I'm thanking, asking for something, or communicating something respectfully  | Empathize  | https://en.wikipedia.org/wiki/Bowing  |
 | :pray:  | pray  | Politeness indicator: "I'm saying please"  | Empathize  | https://www.brainpickings.org/2013/07/25/origin-of-please-and-thank-you/ |
 |  :sparkles: | sparkles  | Cheer, recognition  | Celebrate!  | https://emojipedia.org/sparkles/  |
