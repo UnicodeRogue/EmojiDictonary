@@ -10,6 +10,7 @@ This dictonary comes from me noticing how emoji are used to convey a fair amount
 | :tada:  | tada  | Celebration, announcement  | Celebrate/alert  |   |
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/all-the-things.png)  | all-the-things  | "Yes! All the things! Lots of enthusiasm  |  Empathize/status | Allie Brosh's Hyperbole and a Half: http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html  |
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/starship_enterprise.jpg)  | starship_enterprise  | I see your message, and I'm coming over now to take a look at the linked issue, after I look over the issue, I'll respond with my reccomendations and thoughts  | Action  | Star Trek: https://en.wikipedia.org/wiki/Starship_Enterprise  |
+| :art: | Art |This particular code comment is more of a stylistic note, it is not a blocker to a commit |Code comments | Artistic nuance
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/shovel.png)  | shovel  | I'm digging out from a lot of notifications and emails  | Status  |   |
 | :dolphin:  | dolphin  | I'm leaving this channel/conversation. No hard feelings, and I'm leaving!  | Action being taken   | Hitchhicker's Guide to the Galaxy:  https://www.youtube.com/watch?v=N_dUmDBfp6k |
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/homer_bush.gif)  | homer_bush  | (Slightly embarrassed) I'm leaving this channel/conversation/work for the day. No hard feelings, and I'm leaving!  | Action being taken   |   |
