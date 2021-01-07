@@ -8,6 +8,7 @@ This dictonary comes from me noticing how emoji are used to convey a fair amount
 |---|---|---|---|---|
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/shipit_drawing.png)  | shipit_squirrel  | I've read what you wrote, and I want you to go ahead and ship it  | Next step  | Early part of GitHub culture, continues  https://excid3.com/blog/finishing-is-all-that-matters |
 | :tada:  | tada  | Celebration, announcement  | Celebrate/alert  |   |
+|:turtle:|turtle|To-do list item|Work flow|Early part of GitHub culture. Ref: "Turtles all the way down" https://en.wikipedia.org/wiki/Turtles_all_the_way_down "Hubot Description: Remember your yak frames as you shave deeper and deeper. (line break) It's turtles all the way down." |
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/all-the-things.png)  | all-the-things  | "Yes! All the things! Lots of enthusiasm  |  Empathize/status | Allie Brosh's Hyperbole and a Half: http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html  |
 | ![](https://github.com/UnicodeRogue/EmojiDictonary/blob/master/images/starship_enterprise.jpg)  | starship_enterprise  | I see your message, and I'm coming over now to take a look at the linked issue, after I look over the issue, I'll respond with my reccomendations and thoughts  | Action  | Star Trek: https://en.wikipedia.org/wiki/Starship_Enterprise  |
 | :art: | Art |This particular code comment is more of a stylistic note, it is not a blocker to a commit |Code comments | Artistic nuance
